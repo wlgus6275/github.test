@@ -1,2 +1,7 @@
 월요일
 Tuesday //on branch english
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
