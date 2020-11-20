@@ -5,3 +5,11 @@
 금요일
 토요일
 
+Monday
+Tuesday  
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+>>>>>>> english
